@@ -17,3 +17,5 @@ and great confirm theory from Eric Bogatin Book
 
 
 ![image](https://github.com/user-attachments/assets/550642ad-75c4-4b7a-9d41-f987ba559dfb)
+
+![image](https://github.com/user-attachments/assets/0c411c59-ae1c-4c8b-bf2f-253205b763aa)
