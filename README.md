@@ -1,4 +1,4 @@
-To verify the differential signal theory outlined in Eric Bogatin’s Signal Integrity, Me and Aleksander Kaweczynski(https://blog.aleksander.kaweczynski.pl/pl/) developed a PCB test coupon that isolates and measures key parameters, allowing me to compare real-world data with theoretical predictions. 
+To verify the differential signal theory outlined in Eric Bogatin’s Signal Integrity, Me and Aleksander Kaweczynski developed a PCB test coupon that isolates and measures key parameters, allowing me to compare real-world data with theoretical predictions. 
 We simply check rule of thumb of differential signalns that calls 
 "As a rough rule of thumb, when the distance to the return plane is
 about equal to or larger than the total edge-to-edge span of the two signal
